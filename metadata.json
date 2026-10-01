@@ -1,0 +1,6 @@
+{
+  "name": "Universal Video Downloader",
+  "description": "Download publicly accessible videos from supported direct links with format, quality selection, and download manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

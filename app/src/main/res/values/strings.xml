@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Universal Video Downloader</string>
+    <string name="app_subtitle">Download videos from supported direct links</string>
+    <string name="paste_video_link">Paste video link</string>
+    <string name="btn_paste">Paste</string>
+    <string name="btn_analyze">Analyze Link</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_download_video">DOWNLOAD VIDEO</string>
+    <string name="direct_download_unavailable">Direct downloading is not available for this link.</string>
+    <string name="error_invalid_url">Please enter a valid video URL.</string>
+    <string name="error_unsupported_platform">This link is not supported.</string>
+    <string name="error_network">Please check your internet connection.</string>
+    <string name="error_download_failed">Download failed. Please try again.</string>
+    <string name="download_location_desc">Downloads/UniversalVideoDownloader/</string>
+    <string name="about_legal_notice">This app downloads only content that is publicly downloadable or that you have permission to download.</string>
+    <string name="about_privacy_notice">Downloaded files remain on your device.</string>
+</resources>
